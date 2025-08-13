@@ -8,7 +8,8 @@
 ---
 # Bindu M M – Career Portfolio
 
-![Portfolio Preview](Bindu M M.jpg)
+![Portfolio Preview](![Bindu](https://github.com/user-attachments/assets/49fc0910-758d-44a7-9fb3-0be0e2e7dabd)
+)
 
 This repository contains my professional career portfolio in PDF format...
 
