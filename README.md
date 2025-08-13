@@ -6,6 +6,12 @@
 🌐 *[Eka Tatva Wellness – Yoga Website](#)* (Link will be active after publishing)
 
 ---
+# Bindu M M – Career Portfolio
+
+![Portfolio Preview](Bindu M M.jpg)
+
+This repository contains my professional career portfolio in PDF format...
+
 
 ### **About Me**
 
