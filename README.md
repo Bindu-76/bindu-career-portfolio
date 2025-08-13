@@ -2,7 +2,7 @@
 ## **Bindu M M – Career Portfolio**
 
 📧 [bindumm237@gmail.com](mailto:bindumm237@gmail.com) | 📱 [+91 91644 21576](tel:+919164421576)
-📍 Hassan, Karnataka, India
+📍 sakleshpura, Hassan, Karnataka, India
 🌐 *[Eka Tatva Wellness – Yoga Website](#)* (Link will be active after publishing)
 
 ---
